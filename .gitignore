@@ -7,6 +7,9 @@
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
+# Python cache
+__pycache__/
+
 # Visual C++ cache files
 ipch/
 *.aps
