@@ -34,7 +34,9 @@ Properties/
 [Rr]eleases/
 x64/
 x86/
-bld/
+bld*/
+lib*/
+sln*/
 [Bb]in/
 [Oo]bj/
 [Ll]og/
@@ -54,5 +56,8 @@ tessdata/
 *.vsp
 
 # Project specific
-lib/
-sln/
+svm-predict
+svm-scale
+svm-train
+libsvm.so*
+
