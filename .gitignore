@@ -59,4 +59,4 @@ tessdata/
 svm-predict
 svm-scale
 svm-train
-
+libsvm.so*
